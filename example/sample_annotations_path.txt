@@ -1,0 +1,3 @@
+/home/sheik005/pantools_v1.0/example/data/hiv1.gff
+/home/sheik005/pantools_v1.0/example/data/hiv2.gff
+
