@@ -1,4 +1,4 @@
-**PanTools**
+PanTools
 ************************************************************************
 PanTools is a disk-based java application for computational pan-genomics
 developed by Siavash Sheikhizadeh et. al in Bioinformatics group of 
