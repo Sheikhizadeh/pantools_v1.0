@@ -1,10 +1,11 @@
+**bold**PanTools
 ************************************************************************
 PanTools is a disk-based java application for computational pan-genomics
 developed by Siavash Sheikhizadeh et. al in Bioinformatics group of 
 Wageningen university and research center, the Netherlands.  
 ************************************************************************
 
-Requirements
+**bold**Requirements
 ------------
 - KMC2: is a disk-based programm for counting k-mers from (possibly gzipped) FASTQ/FASTA files( http://sun.aei.polsl.pl/kmc ).
         You need to unzipd kmc.zip file provided in this release of PanTools and add the path of the corresponding version (linux, macos or windows) of kmc and kmc_tools executables to your OS path environment variable.
